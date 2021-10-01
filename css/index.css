@@ -119,6 +119,14 @@ html, body {
     width: 450px;
 }
 
+.report {
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 600px;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
@@ -230,6 +238,11 @@ input[type=text], select, textarea {
         font-family: 'Franklin Gothic Medium', Franklin Gothic, ITC Franklin Gothic, Arial, serif;
     }
 
+    .report li {
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', Franklin Gothic, ITC Franklin Gothic, Arial, serif;
+    }
+
     .container {
         display: flex;
         margin: none;
@@ -287,6 +300,14 @@ input[type=text], select, textarea {
     }
 
     .contact {
+        position: absolute;
+        margin-top: 165px;
+        margin-left: 30%;
+        margin-right: 70%;
+        width: 700px;
+    }
+
+    .report {
         position: absolute;
         margin-top: 165px;
         margin-left: 30%;
