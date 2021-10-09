@@ -1,0 +1,7 @@
+Overall, I thought the format of the website was really beautiful! I loved the pictures you chose, the different layouts for each page, and the professional animation styles that were used. I think our projects differed greatly in terms of what we focused on in the different pages. For my page, whenever I had text, I made it fairly large and different colored. I don't necessarily think one is better than the other in terms of user-experience, but I think the emphasis we had we just different. I will say that on some of the pages with black text, it does get drowned out a bit in the very vibrant and beautiful background which could be something to consider. I think both codebases are super maintainable because we have similar layouts for our photos, text, etc.
+
+I think the files are well-structured and looking through the code was much simplier with the different directories that you created.
+
+The one issue I found that's not a big deal is that with smaller screen sizes the navbar text gets a little compressed, but to some degree you can't really control it when the navbars get incredibly small. Besides that, I thought the website was well put together, and it handled user input very professionally! I think it was a great job. I looked in the CSS as well and found very little duplication due to your code structure which allowed me to see what you were doing so much easier!
+
+Long story short, I really liked your website! :)
